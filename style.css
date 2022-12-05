@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(rgb(240, 195, 137),rgb(157, 233, 167));
+    height: 100vh;
+}
+
+.logo{
+    display: block;
+    margin: auto;
+    width: 60px;
+    height: 60px;
+}
