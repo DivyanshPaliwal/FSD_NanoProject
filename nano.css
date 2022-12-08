@@ -56,3 +56,17 @@ h1{
     text-align: center;
     max-width: 1086px;
 }
+#messageInp{
+    border: 2px solid black;
+    border-radius: 3px;
+    height: 26px;
+    width: 91%;
+}
+
+.btn{
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 30px;
+
+}
