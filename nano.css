@@ -50,3 +50,9 @@ h1{
     float: right;
     clear: both;
 }
+#send-container{
+    display: block;
+    margin: auto;
+    text-align: center;
+    max-width: 1086px;
+}
